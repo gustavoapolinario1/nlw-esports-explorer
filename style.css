@@ -4,6 +4,9 @@
   box-sizing: border-box;
 }
 
+*{
+ border :solid yellow 1px;
+}
 ul{
   list-style: none;
 }
